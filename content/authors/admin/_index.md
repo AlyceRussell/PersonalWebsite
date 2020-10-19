@@ -29,7 +29,7 @@ role: Postdoctoral Research Fellow
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:a.russell@ecu.edu.au
+  link: a.russell@ecu.edu.au
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/nerdrusty/
@@ -44,8 +44,6 @@ social:
   link: https://www.linkedin.com/in/alyce-russell-0039a667/
 superuser: true
 title: Dr Alyce Russell
-user_groups:
-- Principal Investigators
 ---
 
 Dr Alyce Russell is a Postdoctoral Research Fellow in the School of Medical and Health Sciences at Edith Cowan University within Prof Wei Wang’s and A/Prof Simon Laws’ research teams. She is a medical scientist specialising in biostatistics who became an R enthusiast along her journey, and subsequently co-founded R-Ladies Perth in 2018. 
